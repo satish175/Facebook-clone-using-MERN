@@ -1,0 +1,103 @@
+export const Users = [
+  {
+    id: 1,
+    profilePicture: "person/1.jpg",
+    username: "satish",
+  },
+  {
+    id: 2,
+    profilePicture: "person/2.jpg",
+    username: "satish2",
+  },
+  {
+    id: 3,
+    profilePicture: "person/3.jpg",
+    username: "satish3",
+  },
+  {
+    id: 4,
+    profilePicture: "person/4.jpg",
+    username: "satish4",
+  },
+  {
+    id: 5,
+    profilePicture: "person/5.png",
+    username: "satish5",
+  },
+  {
+    id: 6,
+    profilePicture: "person/6.jpg",
+    username: "satish6",
+  },
+  {
+    id: 7,
+    profilePicture: "person/7.jpg",
+    username: "satish7",
+  },
+];
+
+export const Posts = [
+  {
+    id: 1,
+    desc: "Hello",
+    photo: "posts/3.jpg",
+    date: "5 mins ago",
+    userId: 1,
+    like: 0,
+    comment: 9,
+  },
+  {
+    id: 2,
+    desc: "",
+    photo: "posts/2.jpg",
+    date: "5 mins ago",
+    userId: 2,
+    like: 32,
+    comment: 9,
+  },
+  {
+    id: 3,
+    desc: "",
+    photo: "posts/1.jpg",
+    date: "5 mins ago",
+    userId: 3,
+    like: 32,
+    comment: 9,
+  },
+  {
+    id: 4,
+    desc: "",
+    photo: "posts/4.jpg",
+    date: "5 mins ago",
+    userId: 4,
+    like: 32,
+    comment: 9,
+  },
+  {
+    id: 5,
+    desc: "",
+    photo: "posts/5.jpg",
+    date: "5 mins ago",
+    userId: 5,
+    like: 32,
+    comment: 9,
+  },
+  {
+    id: 6,
+    desc: "",
+    photo: "posts/6.jpg",
+    date: "5 mins ago",
+    userId: 6,
+    like: 32,
+    comment: 9,
+  },
+  {
+    id: 7,
+    desc: "",
+    photo: "posts/7.png",
+    date: "5 mins ago",
+    userId: 7,
+    like: 32,
+    comment: 9,
+  },
+];
